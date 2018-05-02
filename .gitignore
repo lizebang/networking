@@ -17,3 +17,7 @@ sized/
 thumbs/
 _thumbs/
 */expressionengine/cache/*
+
+# GitBook
+node_modules/
+_book/
