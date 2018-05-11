@@ -2,7 +2,7 @@
 
 ## 网络结构
 
-![IPC interconnection](images/ipc-interconnection.svg)
+![IPS interconnection](images/ips-interconnection.svg)
 
 * 第一层 IPS（tier-1 IPS）
 * 区域 IPS（reginal IPS）
